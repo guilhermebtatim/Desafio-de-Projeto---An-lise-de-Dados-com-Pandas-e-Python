@@ -1,2 +1,2 @@
-# Desafio-de-Projeto---An-lise-de-Dados-com-Pandas-e-Python
-Desafio de Projeto DIO / Phyton e Pandas para Análise de Dados
+# Desafio de Projeto - Análise de Dados com Pandas e Python
+Desafio de Projeto DIO utilizando Phyton e Pandas para Análise de Dados
